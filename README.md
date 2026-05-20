@@ -1,31 +1,65 @@
-# 👋 Hi, I’m Sanelisiwe Mqutshwa from Durban, KwaZulu-Natal!
+# 👋 Hi, I’m Sanelisiwe Mqutshwa. 
 
-**“Solving real-world problems with code, curiosity, and creativity.”**
+### Aspiring AI/ML Engineer | Software Developer | Data Analyst | Full-stack Developer 
+
+📍 Durban, KwaZulu-Natal, South Africa  
+💡 Building intelligent systems, scalable applications, and AI-powered solutions.
 
 ---
 
 ## 🌟 About Me
 
-- 💻 **Profession:** Software Developer | Data Analyst | Full-stack Developer
-- 💡 **Tagline:** Generating practical solutions and building intelligent systems.
-- 🌱 **Currently Learning:** Advanced AI concepts, prompt engineering, and innovative backend technologies.
-- 🤝 **Open to Collaboration:** Always happy to connect on meaningful projects and tech initiatives!
+I am an entry-level AI/software engineer with practical projects and strong technical foundations in software development, machine learning fundamentals, backend systems, and data analysis.
+
+I enjoy building practical solutions that solve real-world problems using AI technologies, modern development tools, and clean system design.
+
+My interests include:
+- Artificial Intelligence & Machine Learning
+- Backend Development
+- Intelligent Educational Systems
+- Data Analysis & Visualization
+- Prompt Engineering
+- Full-Stack Development
+
+Currently expanding my expertise in:
+- Advanced AI concepts
+- Generative AI systems
+- AI application architecture
+- Backend technologies and APIs
 
 ---
 
-## 🔧 Skills & Tools
+# 🔧 Technical Skills
 
-**Programming Languages:**  
-Java&nbsp;•&nbsp;Python&nbsp;•&nbsp;C#&nbsp;•&nbsp;C++
+## Programming Languages
+- Python
+- Java
+- C#
+- C++
+- SQL
 
-**Web Development:**  
-HTML&nbsp;•&nbsp;ASP.NET&nbsp;•&nbsp;CSS&nbsp;•&nbsp;REST API
+## Web Development
+- HTML
+- CSS
+- ASP.NET
+- REST APIs
 
-**Databases:**  
-Microsoft SQL Server&nbsp;•&nbsp;MySQL
+## Databases
+- Microsoft SQL Server
+- MySQL
 
-**Tools & Platforms:**  
-Git&nbsp;•&nbsp;Visual Studio&nbsp;•&nbsp;Linux&nbsp;•&nbsp;Microsoft Office
+## AI / Data Technologies
+- Machine Learning Fundamentals
+- Prompt Engineering
+- Power BI
+- Data Analysis
+
+## Tools & Platforms
+- Git
+- GitHub
+- Linux
+- Visual Studio
+- Google Cloud Platform (GCP)
 
 ---
 
@@ -33,15 +67,23 @@ Git&nbsp;•&nbsp;Visual Studio&nbsp;•&nbsp;Linux&nbsp;•&nbsp;Microsoft Offi
 
 - **[Custom Content Generator](https://github.com/sanae16/AcademicGen-AI)**  
   End-to-end solution for dynamically generating diverse content for university students.
+  ### Technologies 
+  React • TypeScript • AI APIs • Tailwind CSS
 
 - **[Educational Chat Bot](https://github.com/sanae16/educational-chat-bot)**  
   An AI-powered educational chatbot designed to serve as a knowledge assistant for AI fundamentals, making complex concepts accessible to beginners.
+  ### Technologies 
+  Python • NLP Fundamentals • REST APIs
 
 - **[Finance Sector AI Prototype](https://github.com/sanae16/Overspending-Alert-System)**  
   Innovative prototype that leverages AI techniques to analyze and derive insights for the finance industry.
+   ### Technologies 
+  React • TypeScript • AI APIs • Tailwind CSS
 
 - **[Portfolio Development](https://github.com/sanae16/portfolio-development)**  
   My journey in building and refining a personal and professional portfolio to showcase skills and projects.
+   ### Technologies 
+  React • TypeScript • AI APIs • Tailwind CSS
 
 ---
 
@@ -62,4 +104,17 @@ Git&nbsp;•&nbsp;Visual Studio&nbsp;•&nbsp;Linux&nbsp;•&nbsp;Microsoft Offi
 
 ---
 
-⭐️  *Thanks for visiting my profile! Feel free to explore my repositories and reach out if you want to connect or collaborate!*
+# 📈 Career Focus
+
+Currently seeking opportunities in:
+- AI/ML Engineering
+- Software Development
+- Backend Development
+- Data Analytics
+- Intelligent Systems Development
+
+---
+
+
+⭐️  *Thanks for visiting my profile! 
+I’m always open to collaborating on impactful projects, AI initiatives, and innovative software solutions.!*
