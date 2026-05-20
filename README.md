@@ -94,6 +94,7 @@ Currently expanding my expertise in:
 - **Introduction to Artificial Intelligence (AI)** — [Certificate Link](https://coursera.org/share/be3fcc6bb9376ec465137bc8db0388f2)
 - **AI For Everyone** — [Certificate Link](https://coursera.org/share/35b0ac146c544ca381e40a511f65a9d7)
 - **Generative AI: Prompt Engineering Basics** — [Certificate Link](https://coursera.org/share/5552aac6a6e0cb6d0b9a85f51ad8917b)
+- **Generative AI with Large Language Models** — [Certificate Link](https://www.coursera.org/account/accomplishments/records/3QNZ44J2KG7I)
 
 ---
 
