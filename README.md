@@ -31,7 +31,7 @@ Git&nbsp;•&nbsp;Visual Studio&nbsp;•&nbsp;Linux&nbsp;•&nbsp;Microsoft Offi
 
 ## 🚀 Highlight Projects
 
-- **[Custom Content Generator](https://github.com/sanae16/custom-content-generator)**  
+- **[Custom Content Generator](https://github.com/sanae16/AcademicGen-AI)**  
   End-to-end solution for dynamically generating diverse content for university students.
 
 - **[Educational Chat Bot](https://github.com/sanae16/educational-chat-bot)**  
