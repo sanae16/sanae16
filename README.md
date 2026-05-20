@@ -37,7 +37,7 @@ Git&nbsp;•&nbsp;Visual Studio&nbsp;•&nbsp;Linux&nbsp;•&nbsp;Microsoft Offi
 - **[Educational Chat Bot](https://github.com/sanae16/educational-chat-bot)**  
   An AI-powered educational chatbot designed to serve as a knowledge assistant for AI fundamentals, making complex concepts accessible to beginners.
 
-- **[Finance Sector AI Prototype](https://github.com/sanae16/finance-sector-ai-prototype)**  
+- **[Finance Sector AI Prototype](https://github.com/sanae16/Overspending-Alert-System)**  
   Innovative prototype that leverages AI techniques to analyze and derive insights for the finance industry.
 
 - **[Portfolio Development](https://github.com/sanae16/portfolio-development)**  
