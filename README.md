@@ -68,7 +68,7 @@ Currently expanding my expertise in:
 - **[Custom Content Generator](https://github.com/sanae16/AcademicGen-AI)**  
   End-to-end solution for dynamically generating diverse content for university students.
   ### Technologies 
-  React • TypeScript • AI APIs • Tailwind CSS
+  React • TypeScript • Gemini APIs • Tailwind CSS • Next.js
 
 - **[Educational Chat Bot](https://github.com/sanae16/educational-chat-bot)**  
   An AI-powered educational chatbot designed to serve as a knowledge assistant for AI fundamentals, making complex concepts accessible to beginners.
@@ -78,7 +78,7 @@ Currently expanding my expertise in:
 - **[Finance Sector AI Prototype](https://github.com/sanae16/Overspending-Alert-System)**  
   Innovative prototype that leverages AI techniques to analyze and derive insights for the finance industry.
    ### Technologies 
-  React • TypeScript • AI APIs • Tailwind CSS
+  React • TypeScript • AI APIs • Tailwind CSS • Next.js
 
 - **[Portfolio Development](https://github.com/sanae16/portfolio-development)**  
   My journey in building and refining a personal and professional portfolio to showcase skills and projects.
