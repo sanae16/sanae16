@@ -80,7 +80,7 @@ Currently expanding my expertise in:
    ### Technologies 
   React • TypeScript • AI APIs • Tailwind CSS • Next.js
 
-- **[Portfolio Development](https://github.com/sanae16/portfolio-development)**  
+- **[Portfolio Development](https://github.com/sanae16/Personal-Portfolio)**  
   My journey in building and refining a personal and professional portfolio to showcase skills and projects.
    ### Technologies 
   React • TypeScript • AI APIs • Tailwind CSS
