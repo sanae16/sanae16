@@ -101,7 +101,7 @@ Currently expanding my expertise in:
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanelisiwe-mqutshwa-593068270)
-<!-- Add more social links if desired -->
+- [Personal Portfolio](https://ai-ml-engineer-portfolio-917770077664.europe-west2.run.app)
 
 ---
 
